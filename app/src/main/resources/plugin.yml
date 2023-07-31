@@ -1,0 +1,9 @@
+main: neo.AppKt
+name: neo
+version: 1.0.0
+author: heaveless
+api-version: 1.0.0
+
+# commands:
+#   auth-neo:
+#   spawn-neo:
